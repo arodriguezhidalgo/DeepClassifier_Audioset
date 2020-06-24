@@ -6,6 +6,12 @@ Code originally proposed to implement approachs for the classification of audito
 
 
 ## Versioning
+v1.1:
+* Included an updated version of the classifiers considering binary and multiclass classification.
+* New models: LSTM/GRU, Attention, etc. 
+* Dependency: [URL](https://github.com/datalogue/keras-attention).
+
+
 v1.0:
 * Original implementation proposed for the classification of two labels, namely `speech`and `music`. 
 * Easily modifiable to work with several labels from Audioset.

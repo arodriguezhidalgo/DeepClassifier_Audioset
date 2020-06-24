@@ -1,0 +1,2 @@
+model_name,n_epochs,batch_size,optimizer,opt_lr,n_mel,n_units,K,clipnorm
+Gen_Attention_BIG,600,243,<keras.optimizers.SGD object at 0x7f8ce7bfb710>,0.1,64,64,300,0.1
